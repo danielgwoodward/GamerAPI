@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3803ede-58c2-492f-8a5a-6a6875da7498" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-    </list>
+    <list default="true" id="b3803ede-58c2-492f-8a5a-6a6875da7498" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="344" />
+    <option name="x" value="171" />
     <option name="y" value="23" />
     <option name="width" value="1136" />
     <option name="height" value="792" />
@@ -115,15 +113,15 @@
       <option name="presentableId" value="Default" />
       <updated>1512627312038</updated>
       <workItem from="1512627314446" duration="1327000" />
-      <workItem from="1512696455504" duration="941000" />
+      <workItem from="1512696455504" duration="1067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2268000" />
+    <option name="totallyTimeSpent" value="2394000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="344" y="23" width="1136" height="792" extended-state="0" />
+    <frame x="171" y="23" width="1136" height="792" extended-state="0" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
