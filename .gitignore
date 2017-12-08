@@ -53,7 +53,6 @@ fabric.properties
 # *.ipr
 
 ### IDEA ###
-.idea/
 /v1/.idea/
 
 ### Composer ###
@@ -64,14 +63,6 @@ fabric.properties
 
 ### Config ###
 /v1/config.php
-.idea/deployment.xml
-.idea/inspectionProfiles/
-.idea/modules.xml
-.idea/scholarship-rest-f17.iml
-.idea/vcs.xml
-v1/.htaccess
-.idea/php.xml
-/v1/composer.lock
-v1/composer.lock
 
-.idea
+v1/.htaccess
+v1/config.php
