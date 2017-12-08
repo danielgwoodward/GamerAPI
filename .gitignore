@@ -8,6 +8,7 @@
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
+.idea/*
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
@@ -66,3 +67,5 @@ fabric.properties
 
 v1/.htaccess
 v1/config.php
+.gitignore
+.idea/inspectionProfiles/
